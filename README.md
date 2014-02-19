@@ -1,2 +1,3 @@
 samples
 =======
+JBoss Fuse Samples
